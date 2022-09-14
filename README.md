@@ -12,7 +12,7 @@ This repository contains my projects from the "Data Science Specialist" training
 <br>
 04_determination_of_a_promising_tariff_for_a_telecom_company / Определение перспективного тарифа для телеком компании
 <br>
-05_
+05_prefabricated_project_online_store_"Streamchik" / Сборный проект интернет-магазин «Стримчик»
 06
 07
 08
