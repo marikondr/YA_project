@@ -3,6 +3,7 @@
 This repository contains my projects from the "Data Science Specialist" training program by Yandex.Praktikum
 
 Содержание: / Content:
+<br>
 01_yandex.music
 <br>
 02_research_on_the_reliability_of_borrowers
