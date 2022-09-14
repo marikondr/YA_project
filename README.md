@@ -4,6 +4,9 @@ This repository contains my projects from the "Data Science Specialist" training
 
 Содержание: / Content:
 01_yandex.music
+<br>
+
+
 02_research_on_the_reliability_of_borrowers
 03_research_of_ads_for_the_sale_of_apartments
 04_determination_of_a_profitable_plan_for_a_telecom_company
