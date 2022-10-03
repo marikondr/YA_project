@@ -1,10 +1,8 @@
 В этом репозитории собраны мои проекты из курса "Специалист по Data Science" Яндекс.Практикума
 
-This repository contains my projects from the "Data Science Specialist" training program by Yandex.Praktikum
-
-Содержание: / Content:
+Содержание: 
 <br>
-01_yandex.music / Яндекс музыка
+*01_yandex.music* / Яндекс музыка
 <br>
 02_investigation_of_the_reliability_of_borrowers / Исследование надёжности заёмщиков
 <br>
