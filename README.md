@@ -2,7 +2,7 @@
 
 Содержание: 
 <br>
-*01_yandex.music* / Яндекс музыка
+**01_yandex.music** / Яндекс музыка
 <br>
 02_investigation_of_the_reliability_of_borrowers / Исследование надёжности заёмщиков
 <br>
